@@ -1,3 +1,3 @@
-FROM php:5.6-apache
+FROM docker.io/eboraas/apache-php:latest
 
 COPY src/ /var/www/html/
