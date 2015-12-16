@@ -1,0 +1,28 @@
+{
+  "name": "jki",
+  "version": "0.1",
+  "description": "jki",
+  "main": "server.js",
+  "dependencies": {
+      "express": "*",
+      "mongodb": "*",
+      "ejs": "*"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/zer0glitch/cornerkarate.git"
+  },
+  "author": "Steve Speicher <sspeiche@gmail.com>",
+  "license": "",
+  "bugs": {
+    "url": "http://github.com/zer0glitch/cornerkarate/issues"
+  },
+  "homepage": "http://github.com/zer0glitch/cornerkarate"
+}
